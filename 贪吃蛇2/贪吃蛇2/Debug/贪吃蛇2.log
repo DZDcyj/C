@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  贪吃蛇2.cpp
+e:\programming\c\贪吃蛇2\贪吃蛇2\贪吃蛇2.cpp(49): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\programming\c\贪吃蛇2\贪吃蛇2\贪吃蛇2.cpp(96): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\programming\c\贪吃蛇2\贪吃蛇2\贪吃蛇2.cpp(114): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\programming\c\贪吃蛇2\贪吃蛇2\贪吃蛇2.cpp(142): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  贪吃蛇2.vcxproj -> E:\Programming\C\贪吃蛇2\Debug\贪吃蛇2.exe
